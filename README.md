@@ -1,5 +1,5 @@
 
-### ML With Audio Analysis
+# ML With Audio Analysis
 <div id="header" align="left">
   <img src="https://del-portal.kfu.edu.sa/_frontend/fron/images/kfu_logo.png" width="250" 400 height="100"//>
 </div>
@@ -7,7 +7,7 @@
 ## Introduction:
 
 
-We, as students from [KFU's](https://www.kfu.edu.sa/ar/Colleges/Computer_Science/Pages/Home-new.aspx) Computer Engineering department, have developed a project utilizing machine learning to analyze sounds, focusing specifically on the sound of wind. This application holds significant potential in various fields, particularly in weather forecasting and determining wind speed
+We, as students from [KFU's](https://www.kfu.edu.sa/ar/Colleges/Computer_Science/Pages/Home-new.aspx) Computer Engineering department, have developed a project utilizing machine learning to analyze sounds, focusing specifically on the sound of wind. This application holds significant potential in various fields, particularly in weather forecasting and determining wind speed.
 ## The Process:
 We used FFmpeg to trim audio recordings into smaller segments, each lasting one second, resulting in 2600 files. 
 We used Python code to sort RMS values into ascending order.
@@ -21,5 +21,14 @@ Throughout this experiment, we utilized ESP-32 due to its capability to handle l
 <div id="header" align="center">
   <img src="https://diyi0t.com/wp-content/uploads/2020/12/Sound-Sensor-ESP32-ESP-WROOM-32-_Steckplatine.png" width="300" 400 height="150"//>
 </div>
+
+# This Project Done By:                                     
+## Students:                   
+#### Ibrahim Alawadh.
+#### Yasser AlRamadhan.
+#### Saleh Boshalf.
+## Supervisor :
+#### DR.Ramasamy
+
 
 
