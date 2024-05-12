@@ -10,3 +10,6 @@ Subsequently, we initiated the training process on either the processor or the g
 Following the training phase, we conducted testing and achieved an accuracy rate of 90%, which is considered excellent for this application.
 We then selected the development environment, opting for [Arduino IDE](https://www.arduino.cc/en/software), and integrated it into a library accessible to all.
 Throughout this experiment, we utilized ESP-32 due to its capability to handle large datasets effectively.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
