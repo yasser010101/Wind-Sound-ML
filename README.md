@@ -1,7 +1,8 @@
 
 ### ML With Audio Analysis
 ## Introduction:
-
+We, as students from KFU's Computer Engineering department, have developed a project utilizing machine learning to analyze sounds, focusing specifically on the sound of wind. This application holds significant potential in various fields, particularly in weather forecasting and determining wind speed
+## The Process:
 We used FFmpeg to trim audio recordings into smaller segments, each lasting one second, resulting in 2600 files. 
 We used Python code to sort RMS values into ascending order.
 After that we upload the RMS files to [Edge impulse](https://edgeimpulse.com/)
