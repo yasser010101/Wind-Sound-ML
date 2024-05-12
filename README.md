@@ -1,5 +1,5 @@
-ML with audio analysis
-<span style="font-size: larger;">ML with audio analysi</span>
+
+<span style="font-size: 16;">ML with audio analysi</span>
 Introduction:
 
 We used FFmpeg to trim audio recordings into smaller segments, each lasting one second, resulting in 2600 files. 
