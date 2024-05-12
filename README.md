@@ -11,5 +11,5 @@ Following the training phase, we conducted testing and achieved an accuracy rate
 We then selected the development environment, opting for [Arduino IDE](https://www.arduino.cc/en/software), and integrated it into a library accessible to all.
 Throughout this experiment, we utilized ESP-32 due to its capability to handle large datasets effectively.
 <div id="header" align="center">
-  <img src="<div class="tenor-gif-embed" data-postid="5671822644946302447" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-meme-funny-gif-cat-dancing-dance-gif-5671822644946302447">Cat Meme Funny Sticker</a>from <a href="https://tenor.com/search/cat+meme-stickers">Cat Meme Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="100"/>
+  <img src="https://media.tenor.com/TrZcpR0Kde8AAAAi/cat-meme-funny.gif" width="100"/>
 </div>
