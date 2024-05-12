@@ -10,8 +10,8 @@ Subsequently, we initiated the training process on either the processor or the g
 Following the training phase, we conducted testing and achieved an accuracy rate of 90%, which is considered excellent for this application.
 We then selected the development environment, opting for [Arduino IDE](https://www.arduino.cc/en/software), and integrated it into a library accessible to all.
 Throughout this experiment, we utilized ESP-32 due to its capability to handle large datasets effectively.
-<div id="header" align="center">
-  <img src="https://diyi0t.com/wp-content/uploads/2020/12/Sound-Sensor-ESP32-ESP-WROOM-32-_Steckplatine.png" width="500" 600" height="500"//>
+<div id="header" align="left">
+  <img src="https://diyi0t.com/wp-content/uploads/2020/12/Sound-Sensor-ESP32-ESP-WROOM-32-_Steckplatine.png" width="500" 400 height="500"//>
 </div>
 
 <div align="center">
