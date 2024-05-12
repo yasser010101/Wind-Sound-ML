@@ -15,5 +15,5 @@ Throughout this experiment, we utilized ESP-32 due to its capability to handle l
 </div>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/lN2h_m1Q14oAAAAC/arduino-running.gif" width="600" height="300"/>
+  <img src="https://media.tenor.com/iNk-1osmqAsAAAAi/arduino.gif="600" height="300"/>
 </div>
