@@ -14,6 +14,4 @@ Throughout this experiment, we utilized ESP-32 due to its capability to handle l
   <img src="https://diyi0t.com/wp-content/uploads/2020/12/Sound-Sensor-ESP32-ESP-WROOM-32-_Steckplatine.png" width="500" 400 height="350"//>
 </div>
 
-<div align="center">
-  <img src="https://media.tenor.com/iNk-1osmqAsAAAAi/arduino.gif="600" height="300"/>
-</div>
+
