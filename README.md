@@ -3,7 +3,7 @@
 <div id="header" align="left">
   <img src="https://del-portal.kfu.edu.sa/_frontend/fron/images/kfu_logo.png" width="250" 400 height="100"//>
 </div>
-
+[this image shows the wiring connection]
 ## Introduction:
 
 
@@ -28,7 +28,7 @@ Throughout this experiment, we utilized ESP-32 due to its capability to handle l
 #### Yasser AlRamadhan.
 #### Saleh Boshalf.
 ## Supervisor :
-#### DR.Ramasamy
+#### DR.Ramasamy.
 
 
 
