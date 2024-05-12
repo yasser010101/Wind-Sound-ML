@@ -11,5 +11,5 @@ Following the training phase, we conducted testing and achieved an accuracy rate
 We then selected the development environment, opting for [Arduino IDE](https://www.arduino.cc/en/software), and integrated it into a library accessible to all.
 Throughout this experiment, we utilized ESP-32 due to its capability to handle large datasets effectively.
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/moodman-QsZol42CPIjMzke1QW/giphy.gif" width="100"/>
+  <img src="[https://giphy.com/gifs/moodman-QsZol42CPIjMzke1QW/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGc2MWM3aWxqemNrbXgwZmpzeHRndmRyNTJpa3B4dW0xMzQxeGQ3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QsZol42CPIjMzke1QW/giphy.gif)" width="100"/>
 </div>
