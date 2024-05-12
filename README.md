@@ -1,7 +1,7 @@
 
 ### ML With Audio Analysis
 ## Introduction:
-<div id="header" align="left">
+<div id="header" align="center">
   <img src="https://del-portal.kfu.edu.sa/_frontend/fron/images/kfu_logo.png" width="250" 400 height="100"//>
 </div>
 
