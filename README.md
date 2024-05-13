@@ -70,6 +70,17 @@ For a neural network with 3,168 features would have 3,168 input neurons, each re
 <div id="header" align="left">
   <img src="https://raw.githubusercontent.com/yasser010101/Wind-Sound-ML/main/pic1.png" width="300" 400 height="150"//>
 
+  ## Deployment  :
+  Due to its significantly higher RAM capacity compared to other microcontrollers such as the Nano BLE Duo, the ESP32 emerged as the ideal choice for our project. This ample RAM allows the ESP32 to efficiently manage and process our large datasets.
+<div id="header" align="left">
+  <img src="https://diyi0t.com/wp-content/uploads/2020/12/Sound-Sensor-ESP32-ESP-WROOM-32-_Steckplatine.png" width="300" 400 height="150"//>
+</div>
+
+## Implemtation
+
+## Our Goal:
+Capturing and analyzing sound is not our primary objective. Our true aim is to assist humanity in any way possible by measuring various elements in our surroundings to enhance the quality of life.living. Our project is universally accessible, This project stands as an open invitation for collective effort, dedicated to the betterment of society by the industry.
+
 ## This Project Done By:                                    
 ### Students:                   
 ##### Ibrahim Alawadh.
@@ -78,7 +89,4 @@ For a neural network with 3,168 features would have 3,168 input neurons, each re
 ### Supervisor :
 ##### DR.Ramasamy.
 
-#### This image shows the wiring connection:
-<div id="header" align="left">
-  <img src="https://diyi0t.com/wp-content/uploads/2020/12/Sound-Sensor-ESP32-ESP-WROOM-32-_Steckplatine.png" width="300" 400 height="150"//>
-</div>
+
