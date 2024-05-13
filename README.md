@@ -58,7 +58,7 @@ A neural network with 3,168 features would have 3,168 input neurons, each repres
 
 10. Extra Layer:
    - You mentioned adding an extra layer, but it's not specified what type of layer it is or its configuration.
-11. -11. Output Layer (6 classes):
+11. - Output Layer (6 classes):
      </div>
  This shows all data in your training set classified by the neural network. Items in green are classified correctly, items in red are misclassified.
 <div id="header" align="left">
