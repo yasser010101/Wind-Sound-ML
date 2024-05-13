@@ -13,22 +13,17 @@ We used Python code to sort RMS values into ascending order.
 After that we upload the RMS files to [Edge impulse](https://edgeimpulse.com/) 
 We divided 80% of the files for training purposes and allocated the remaining 20% for testing. 
 
-
-</div>
- This shows all data in your training set classified by the neural network. Items in green are classified correctly, items in red are misclassified.
-<div id="header" align="left">
-  <img src="https://raw.githubusercontent.com/yasser010101/Wind-Sound-ML/main/pic2.png" width="300" 400 height="150"//>
-
-For a neural network with 3,168 features would have 3,168 input neurons, each representing a single feature of your data. These neurons would feed the data into the network for further processing by the hidden layers.
+A neural network with 3,168 features would have 3,168 input neurons, each representing a single feature of your data. These neurons would feed the data into the network for further processing by the hidden layers.
  implementing such a network, ensure that your data is properly preprocessed and normalized so that each of these features can be effectively used by the network. Also, consider the complexity of your model and the computational resources at your disposal, as a large number of features can significantly increase the computational load.
-<div id="header" align="left">
+<div id="header" align="center">
   <img src="https://raw.githubusercontent.com/yasser010101/Wind-Sound-ML/main/pic3.png" width="300" 400 height="150"//>
   
 
-  ### After that we convert The input Layer to output Layer.
+
+  ###The input Layer to output Layer.
   And these are the steps: 
   <div id="header" align="left">
-  <img src="https://raw.githubusercontent.com/yasser010101/Wind-Sound-ML/main/pic4.png" width="300" 400 height="150"//>
+  <img src="https://raw.githubusercontent.com/yasser010101/Wind-Sound-ML/main/pic4.png" width="600" 400 height="350"//>
 
 ### More about conversion Details:
 
@@ -63,16 +58,22 @@ For a neural network with 3,168 features would have 3,168 input neurons, each re
 
 10. Extra Layer:
    - You mentioned adding an extra layer, but it's not specified what type of layer it is or its configuration.
+11. -11. Output Layer (6 classes):
+     </div>
+ This shows all data in your training set classified by the neural network. Items in green are classified correctly, items in red are misclassified.
+<div id="header" align="left">
+  <img src="https://raw.githubusercontent.com/yasser010101/Wind-Sound-ML/main/pic2.png" width="600" 400 height="350"//>
 
-11. Output Layer (6 classes):
+
+
    - The final output layer with 6 neurons, representing the number of classes in your classification problem.
 
 <div id="header" align="left">
-  <img src="https://raw.githubusercontent.com/yasser010101/Wind-Sound-ML/main/pic1.png" width="300" 400 height="150"//>
+  <img src="https://raw.githubusercontent.com/yasser010101/Wind-Sound-ML/main/pic1.png" width="600" 400 height="350"//>
 
   ## Deployment  :
   Due to its significantly higher RAM capacity compared to other microcontrollers such as the Nano BLE Duo, the ESP32 emerged as the ideal choice for our project. This ample RAM allows the ESP32 to efficiently manage and process our large datasets.
-<div id="header" align="left">
+<div id="header" align="center">
   <img src="https://diyi0t.com/wp-content/uploads/2020/12/Sound-Sensor-ESP32-ESP-WROOM-32-_Steckplatine.png" width="300" 400 height="150"//>
 </div>
 
@@ -81,7 +82,7 @@ The Tiny Machine Learning is a cutting-edge device that that uses smart technolo
 
 ## Our Goal:
 Capturing and analyzing sound is not our primary objective. Our true aim is to assist humanity in any way possible by measuring various elements in our surroundings to enhance the quality of life.living. Our project is universally accessible, This project stands as an open invitation for collective effort, dedicated to the betterment of society by the industry.
-<div id="header" align="left">
+<div id="header" align="center">
   <img src="https://raw.githubusercontent.com/yasser010101/Wind-Sound-ML/main/pic5.jpeg" width="300" 400 height="220"//>
 
 ## This Project Done By:                                    
