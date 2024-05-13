@@ -13,8 +13,7 @@ We used Python code to sort RMS values into ascending order.
 After that we upload the RMS files to [Edge impulse](https://edgeimpulse.com/) 
 We divided 80% of the files for training purposes and allocated the remaining 20% for testing. 
 
-<div id="header" align="left">
-  <img src="https://raw.githubusercontent.com/yasser010101/Wind-Sound-ML/main/pic1.png" width="300" 400 height="150"//>
+
 </div>
 This shows all data in your training set classified by the neural network. Items in green are classified correctly, items in red are misclassified.
 <div id="header" align="left">
@@ -68,6 +67,8 @@ More about conversion Details:
 11. Output Layer (6 classes):
    - The final output layer with 6 neurons, representing the number of classes in your classification problem.
 
+<div id="header" align="left">
+  <img src="https://raw.githubusercontent.com/yasser010101/Wind-Sound-ML/main/pic1.png" width="300" 400 height="150"//>
 
 ## This Project Done By:                                    
 ### Students:                   
