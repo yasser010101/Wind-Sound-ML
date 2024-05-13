@@ -79,6 +79,6 @@ For a neural network with 3,168 features would have 3,168 input neurons, each re
 ##### DR.Ramasamy.
 
 #### This image shows the wiring connection:
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://diyi0t.com/wp-content/uploads/2020/12/Sound-Sensor-ESP32-ESP-WROOM-32-_Steckplatine.png" width="300" 400 height="150"//>
 </div>
