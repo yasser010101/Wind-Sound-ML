@@ -15,22 +15,22 @@ We divided 80% of the files for training purposes and allocated the remaining 20
 
 
 </div>
-This shows all data in your training set classified by the neural network. Items in green are classified correctly, items in red are misclassified.
+ This shows all data in your training set classified by the neural network. Items in green are classified correctly, items in red are misclassified.
 <div id="header" align="left">
   <img src="https://raw.githubusercontent.com/yasser010101/Wind-Sound-ML/main/pic2.png" width="300" 400 height="150"//>
 
-  For a neural network with 3,168 features would have 3,168 input neurons, each representing a single feature of your data. These neurons would feed the data into the network for further processing by the hidden layers.
+For a neural network with 3,168 features would have 3,168 input neurons, each representing a single feature of your data. These neurons would feed the data into the network for further processing by the hidden layers.
  implementing such a network, ensure that your data is properly preprocessed and normalized so that each of these features can be effectively used by the network. Also, consider the complexity of your model and the computational resources at your disposal, as a large number of features can significantly increase the computational load.
 <div id="header" align="left">
   <img src="https://raw.githubusercontent.com/yasser010101/Wind-Sound-ML/main/pic3.png" width="300" 400 height="150"//>
   
 
-  After that we convert The input Layer to output Layer.
+  ### After that we convert The input Layer to output Layer.
   And these are the steps: 
   <div id="header" align="left">
   <img src="https://raw.githubusercontent.com/yasser010101/Wind-Sound-ML/main/pic4.png" width="300" 400 height="150"//>
 
-More about conversion Details:
+### More about conversion Details:
 
 1.Input Layer (3,168 features):
    - This layer receives input data with 3,168 features.
