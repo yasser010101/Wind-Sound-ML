@@ -1,4 +1,3 @@
-
 # ML Using Audio Analysis
 <div id="header" align="left">
   <img src="https://del-portal.kfu.edu.sa/_frontend/fron/images/kfu_logo.png" width="250" 400 height="100"//>
@@ -92,5 +91,3 @@ Capturing and analyzing sound is not our primary objective. Our true aim is to a
 ##### Saleh Boshalf.
 ### Supervisor :
 ##### DR.Ramasamy.
-
-
