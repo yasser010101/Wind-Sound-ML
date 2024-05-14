@@ -20,7 +20,7 @@ A neural network with 3,168 features would have 3,168 input neurons, each repres
   
 
 
-  ###The input Layer to output Layer.
+  ### The input Layer to output Layer.
   And these are the steps: 
   <div id="header" align="left">
   <img src="https://raw.githubusercontent.com/yasser010101/Wind-Sound-ML/main/pic4.png" width="600" 400 height="350"//>
