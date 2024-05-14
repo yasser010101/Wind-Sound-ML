@@ -16,8 +16,6 @@ A neural network with 3,168 features would have 3,168 input neurons, each repres
  implementing such a network, ensure that your data is properly preprocessed and normalized so that each of these features can be effectively used by the network. Also, consider the complexity of your model and the computational resources at your disposal, as a large number of features can significantly increase the computational load.
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/yasser010101/Wind-Sound-ML/main/pic3.png" width="300" 400 height="150"//>
-  
-
 
   ### The input Layer to output Layer.
   And these are the steps: 
@@ -62,8 +60,6 @@ A neural network with 3,168 features would have 3,168 input neurons, each repres
  This shows all data in your training set classified by the neural network. Items in green are classified correctly, items in red are misclassified.
 <div id="header" align="left">
   <img src="https://raw.githubusercontent.com/yasser010101/Wind-Sound-ML/main/pic2.png" width="600" 400 height="350"//>
-
-
 
    - The final output layer with 6 neurons, representing the number of classes in your classification problem.
 
